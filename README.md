@@ -6,7 +6,7 @@ The work is intended for **Brain–Computer Interface (BCI)** preprocessing and 
 
 ---
 
-## 📌 Overview
+## Overview
 
 Electroencephalogram (EEG) signals are highly susceptible to physiological artifacts such as eye blinks and eye movements. This project proposes a two-stage denoising pipeline:
 
@@ -28,7 +28,7 @@ EEG-Artifact-Removal-RLS-ICUNet/
 
 ---
 
-## 🧠 Methodology Summary
+## Methodology Summary
 
 - EEG signals are band-pass filtered (0.5–40 Hz)
 - Temporal artifacts are removed using RLS adaptive filtering with EOG reference signals

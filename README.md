@@ -18,13 +18,11 @@ Electroencephalogram (EEG) signals are highly susceptible to physiological artif
 
 ---
 
-## Repository Structure
-EEG-Artifact-Removal-RLS-ICUNet/
-│
-├── code.py # Main implementation file
-├── results/ # Generated plots and evaluation results
-└── README.md
+## 📂 Repository Structure
 
+- `code.py` – Main implementation file  
+- `results/` – Generated plots and evaluation results  
+- `README.md` – Project documentation
 
 ---
 

@@ -18,7 +18,7 @@ Electroencephalogram (EEG) signals are highly susceptible to physiological artif
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 - `code.py` – Main implementation file  
 - `results/` – Generated plots and evaluation results  
